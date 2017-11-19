@@ -1,0 +1,9 @@
+﻿  Judge.cpp
+  Strategy.cpp
+Strategy.cpp(339): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+Strategy.cpp(343): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+     Creating library C:\Users\IIIS\Downloads\AI_Project\AI_project_win\Connect4\Release\Strategy.lib and object C:\Users\IIIS\Downloads\AI_Project\AI_project_win\Connect4\Release\Strategy.exp
+  Generating code
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Strategy.vcxproj -> C:\Users\IIIS\Downloads\AI_Project\AI_project_win\Connect4\Release\Strategy.dll
